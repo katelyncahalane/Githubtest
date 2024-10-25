@@ -23,4 +23,3 @@ def test_mod():
     assert mod(7, 4) == 3
     assert mod(7, 2) == 1
     assert mod(7, 5) == 2
-
