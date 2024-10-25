@@ -5,7 +5,7 @@ def test_add():
     assert add(3,4, 5) == 12
 
 def test_subtract():
-    assert subtract(3, 4, 5) == -
+    assert subtract(3, 4, 5) == -6
 
 def test_multiply():
     assert multiply(3, 4, 5) == 60
